@@ -8,4 +8,3 @@ This folder is a container for Lua scripts written for the Wildspark game backen
 - `door_left_sw.lua`
 - `door_right_se.lua`
 - `door_right_sw.lua`
-- `door_right_sw.lua`
