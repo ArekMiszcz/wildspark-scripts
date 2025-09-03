@@ -1,4 +1,4 @@
-# tiled/scripts
+# Lua scripts
 
 This folder is a container for Lua scripts written for the Wildspark game backend.
 
